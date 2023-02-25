@@ -14,5 +14,4 @@ public class MonitoringDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MonitoringDemoApplication.class, args);
 	}
-
 }
